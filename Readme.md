@@ -1,5 +1,9 @@
 # Gesture-Controlled Device System
 
+## Dataset Availability
+
+The dataset utilized for training the gesture recognition model is accessible at the following link: [Gesture Detection Dataset](https://huggingface.co/datasets/neerajx0/gesture_detection)
+
 ## Project Objective
 
 This initiative aims to design a state-of-the-art **gesture-controlled device system** by leveraging **machine learning** and **hand tracking** technologies. The project seeks to enable seamless and intuitive interaction with **holographic interfaces**, offering users a futuristic experience reminiscent of sci-fi films. 
@@ -91,6 +95,4 @@ This project aspires to evolve into a sophisticated system where users can intui
 - Real-time Gesture Prediction: Complete ✅
 - Holographic Interface Integration: In Progress 🔵
 
-## Dataset Availability
 
-The dataset utilized for training the gesture recognition model is accessible at the following link: [Gesture Detection Dataset](https://huggingface.co/datasets/neerajx0/gesture_detection)
